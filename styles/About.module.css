@@ -1,0 +1,82 @@
+.aboutContainer {
+	width: 100%;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 0;
+}
+
+.aboutInner {
+	width: 90%;
+	display: flex;
+	flex-direction: column;
+}
+
+.aboutInner h1 {
+	display: flex;
+	font-family: Futura Bk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	line-height: 35px;
+	color: var(--secondary-color);
+	letter-spacing: 0.05em;
+}
+
+.aboutTextContainer {
+	display: flex;
+	flex-direction: row;
+}
+
+.aboutTextContainer .aboutTextInner {
+	flex: 0.5;
+	margin: 50px 50px 50px 0;
+}
+
+.aboutTextContainer .aboutTextInner h2 {
+	font-family: Futura Hv BT;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	line-height: 42px;
+	color: var(--secondary-color);
+	letter-spacing: 0.03em;
+}
+
+.aboutTextContainer .aboutTextInner p {
+	max-width: 640px;
+	font-family: Futura Md BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 35px;
+	letter-spacing: 0.03em;
+	color: var(--paragraphs-color);
+}
+
+/* About Mobile */
+
+@media (max-width: 1024px) {
+	.aboutTextContainer {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.aboutInner h1 {
+		font-size: 36px;
+	}
+
+	.aboutInner h2 {
+		font-size: 25px;
+	}
+
+	.aboutTextContainer .aboutTextInner {
+		flex: 0.5;
+		margin: 50px 0;
+	}
+
+	.aboutTextContainer .aboutTextInner h2 {
+		font-size: 25px;
+	}
+}

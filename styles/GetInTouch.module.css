@@ -1,0 +1,55 @@
+.getInTouchContainer {
+	display: flex;
+	flex-direction: column;
+	width: 40%;
+}
+
+.getInTouchInner {
+	margin: 30px 0;
+}
+
+.getInTouchInner h3 {
+	font-family: Futura Hv BT;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 29px;
+	line-height: 35px;
+	letter-spacing: 0.03em;
+	color: var(--secondary-color);
+}
+
+.getInTouchInner h4 {
+	font-family: Futura Hv BT;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 0.03em;
+	color: var(--secondary-color);
+}
+
+.getInTouchInner p {
+	font-family: Futura Md BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 0.03em;
+	color: var(--paragraphs-color);
+}
+
+@media (max-width: 1024px) {
+	.getInTouchContainer {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+	}
+
+	.getInTouchInner h3 {
+		font-size: 24px;
+	}
+
+	.getInTouchInner p {
+		font-size: 16px;
+	}
+}

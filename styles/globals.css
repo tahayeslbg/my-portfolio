@@ -1,0 +1,39 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+	background-color: var(--primary-color);
+	overflow-x: hidden;
+	scroll-behavior: smooth;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+:root {
+	--primary-color: #09081a;
+	--secondary-color: #fffade;
+	--paragraphs-color: #dbd6b8;
+	--portfolio-color: #00b491;
+	--btn-color: #dcd3ff;
+	--projects-color: #dbd6b8;
+	--input-color: rgba(19, 25, 46, 0.5);
+	--moon-photo: url(../assets/dark-moon.png);
+}
+
+[data-theme="light"] {
+	--primary-color: #fffade;
+	--secondary-color: #09081a;
+	--paragraphs-color: #191646;
+	--portfolio-color: #b5abdb;
+	--btn-color: #00b491;
+	--projects-color: #222045;
+	--input-color: #e2ddc1;
+	--moon-photo: url(../assets/light-moon.png);
+}

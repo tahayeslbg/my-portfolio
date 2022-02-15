@@ -1,0 +1,58 @@
+{
+    "logo": "Taha Yesilbag",
+    "language-name-tr": "TR",
+    "language-name-en": "EN",
+    "header-title1": "TAHA",
+    "header-title2": "YESILBAG",
+    "header-text": "Front-end Developer / UX/UI designer",
+    "portfolio-text": "PORTFOLIO",
+
+    "menu-item1": "HOME",
+    "menu-item2": "ABOUT ME",
+    "menu-item3": "WORKS",
+    "menu-item4": "CONTACT",
+
+    "about-big-title": "About Me",
+    "about-title1": "What I'm Doing?",
+    "about-title2": "Who Am I?",
+    "about-title3": "My Passions",
+    "about-title4": "Skills",
+
+    "about-sub-title1": "Design",
+    "about-sub-title2": "Technology",
+    "about-sub-title3": "Books",
+
+    "about-text1": "In order to increase the user experience, I design your website in accordance with UX research, at the same time, using new generation technologies, I bring your website to the maximum speed level and move it to the higher levels in google rankings.",
+    "about-text2": "I am a front-end developer who has adopted self-development in every field that I am curious about and tries to benefit companies in the web field by using new generation technologies.",
+    "about-text3": "I think the design is like a 'magic wand'. If a service or product is magic to solve a problem, the role of design is to act as an intermediary for the user to solve the problem. I try to create a 'magic wand' suitable for the user every day.",
+    "about-text4": "In the phrase 'well-developed science and technology are indistinguishable from magic' technology has the power to change the lives of the world and individuals. I want to be someone who can always catch up with the latest technology and respond to changes. I think it's the job of developers as well as engineers to encourage innovation.",
+    "about-text5": "I love content such as novels, movies, biographies. In particular, biographies can add a lot to people and make some things easier to understand. I believe there will be a great comeback if I examine all the patterns of the 'life story and can give a story to my output.",
+
+    "works-big-title": "Works",
+    "works-title1": "Startup Landing Page",
+    "works-title2": "GPT-3 Open AI Website",
+    "works-title3": "Twitter Clone",
+    "works-title4": "Instagram Clone",
+    "works-projects1": "<projects>",
+    "works-projects2": "<projects/>",
+
+    "works-text1": "Sample template made for startups.",
+    "works-text2": "Mobile compatible website made for OpenAI company working on artificial intelligence.",
+    "works-text3": "It is made to thrive on React.js.",
+    "works-text4": "It is made to thrive on React.js.",
+    "works-btn-text": "Visit The Website",
+
+    "contact-big-title": "Contact",
+    "contact-title": "Let's Stay in Touch!",
+    "contact-text": "If you need a website and web design, you can reach me.",
+    "contact-name-surname": "Name-Surname",
+    "contact-email": "E-Mail",
+    "contact-message": "Message",
+    "contact-btn-text": "Send",
+    "contact-telephone": "Telephone",
+    "contact-successfull": "Your message has been successfully. I will contact you soon.",
+
+    "footer-title": "Taha Yesilbag",
+    "footer-text": "The future is in the hands of design and technology.",
+    "footer-copyright": "Copyright © 2022 Taha Yesilbag. All rights reserved."
+}

@@ -1,0 +1,50 @@
+.contactContainer {
+	width: 100%;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: Futura Md BT;
+	margin-bottom: 240px;
+}
+
+.contactInner {
+	width: 90%;
+	display: flex;
+	flex-direction: column;
+}
+
+.contactInner h1 {
+	display: flex;
+	font-family: Futura Bk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	line-height: 35px;
+	color: var(--secondary-color);
+	letter-spacing: 0.05em;
+}
+
+.contactInnerContactForm {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: space-around;
+}
+
+@media (max-width: 1024px) {
+	.contactContainer {
+		margin-bottom: 120px;
+	}
+
+	.contactInnerContactForm {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.contactInner h1 {
+		font-size: 36px;
+	}
+}

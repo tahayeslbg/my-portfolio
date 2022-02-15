@@ -1,0 +1,50 @@
+.projectsInner {
+	border: 1px solid var(--btn-color);
+	margin: 25px 0;
+}
+
+.projectsInnerText {
+	padding: 30px 25px;
+}
+
+.projectsInnerText h4 {
+	font-family: Futura Md BT;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 0.03em;
+	color: var(--secondary-color);
+}
+
+.projectsInnerText p {
+	font-family: Futura Md BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 0.03em;
+	color: var(--paragraphs-color);
+	margin-bottom: 50px;
+}
+
+.projectsInnerText a {
+	display: inline-block;
+	font-family: Futura Md BT;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 0.03em;
+	-ms-transform: scale(1); /* IE 9 */
+	-webkit-transform: scale(1); /* Safari */
+	transform: scale(1);
+	color: var(--btn-color);
+	transition: transform 0.3s;
+}
+
+.projectsInnerText a:hover {
+	-ms-transform: scale(1.05); /* IE 9 */
+	-webkit-transform: scale(1.05); /* Safari */
+	transform: scale(1.05);
+}

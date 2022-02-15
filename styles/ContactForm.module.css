@@ -1,0 +1,91 @@
+.contactFormContainer {
+	display: flex;
+	flex-direction: column;
+	width: 45%;
+}
+
+.contactFormInner {
+	display: flex;
+	flex-direction: column;
+	margin: 25px 0;
+	position: relative;
+}
+
+.contactFormInner label {
+	font-family: Futura Md BT;
+	font-weight: 300;
+	font-size: 22px;
+	line-height: 26px;
+	letter-spacing: 0.03em;
+	color: var(--secondary-color);
+	margin-bottom: 15px;
+}
+
+.contactFormInner input {
+	font-family: Futura Md BT;
+	font-weight: 300;
+	font-size: 15px;
+	height: 50px;
+	outline: none;
+	border: none;
+	background: var(--input-color);
+	border-radius: 5px;
+	padding: 5px 20px;
+	color: var(--secondary-color);
+}
+
+#textarea {
+	font-family: Futura Md BT;
+	font-weight: 300;
+	font-size: 15px;
+	height: 150px;
+	width: auto;
+	outline: none;
+	border: none;
+	background: var(--input-color);
+	border-radius: 5px;
+	resize: none;
+	color: var(--secondary-color);
+	padding: 20px;
+}
+
+.contactFormButton {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+}
+
+.contactFormButton button {
+	padding: 15px 60px;
+	outline: none;
+	font-family: Futura Hv BT;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 18px;
+	letter-spacing: 0.01em;
+	background-color: var(--btn-color);
+	border-radius: 5px;
+	border: none;
+	cursor: pointer;
+}
+
+.resultText p {
+	color: var(--secondary-color);
+}
+
+@media (max-width: 1024px) {
+	.contactFormContainer {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+	.contactFormInner label {
+		font-size: 18px;
+	}
+
+	.contactFormButton button {
+		font-size: 16px;
+	}
+}

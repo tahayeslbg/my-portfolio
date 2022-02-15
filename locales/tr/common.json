@@ -1,0 +1,58 @@
+{
+    "logo": "Taha Yeşilbağ ",
+    "language-name-tr": "TR",
+    "language-name-en": "EN",
+    "header-title1": "TAHA",
+    "header-title2": "YEŞİLBAĞ",
+    "header-text": "Ön Yüz Geliştirici / UX/UI tasarımcısı",
+    "portfolio-text": "PORTFOLYO ",
+
+    "menu-item1": "ANASAYFA",
+    "menu-item2": "HAKKIMDA",
+    "menu-item3": "ÇALIŞMALAR",
+    "menu-item4": "İLETİŞİM",
+
+    "about-big-title": "Hakkımda",
+    "about-title1": "Ne Yapıyorum?",
+    "about-title2": "Kimim Ben?",
+    "about-title3": "Tutkularım",
+    "about-title4": "Yetenekler",
+
+    "about-sub-title1": "Tasarım",
+    "about-sub-title2": "Teknoloji",
+    "about-sub-title3": "Kitaplar",
+
+    "about-text1": "Kullanıcı deneyimini artırmak için UX araştırmalarına uygun şekilde web sitenizi tasarlıyor aynı zamanda yeni nesil teknolojiler kullanarak web sitenizi maksimum hız seviyesine ulaştırıyor ve google sıralamalarında üst seviyelere taşıyorum.",
+    "about-text2": "Merakını duyduğum her alanda kendini geliştirmeyi benimsemiş, yeni nesil teknolojiler kullanarak işletmelere web alanında fayda sağlamaya çalışan ön yüz geliştiriciyim.",
+    "about-text3": "Tasarımın bir 'sihirli değnek' gibi olduğunu düşünüyorum. Bir hizmet veya ürün bir sorunu çözmek için sihirliyse, tasarımın rolü, kullanıcının sorunu çözmesi için bir aracı olarak hareket etmektir. Her gün kullanıcıya uygun bir 'sihirli değnek' yaratmaya çalışıyorum.",
+    "about-text4": "'İyi gelişmiş bilim ve teknoloji sihirden ayırt edilemez' tabiriyle teknoloji, dünyanın ve bireylerin hayatlarını değiştirme gücüne sahiptir. Son teknolojiyi her zaman yakalayabilen ve değişimlere cevap verebilen biri olmak istiyorum. Yeniliği teşvik etmenin mühendisler kadar geliştiricilerin de görevi olduğunu düşünüyorum.",
+    "about-text5": "Roman, film, biyografi gibi içerikleri seviyorum. Özellikle biyografiler insanlara çok şey katabilir ve bazı şeylerin anlaşılmasını kolaylaştırabilir. ‘Hayat hikayesinin’ tüm kalıplarını incelersem ve çıktıma bir hikaye verebilirsem, büyük bir geri dönüş olacağına inanıyorum.",
+    
+    "works-big-title": "Çalışmalar",
+    "works-title1": "Startup Açılış Sayfası",
+    "works-title2": "GPT-3 Open AI Websitesi",
+    "works-title3": "Twitter Klonu",
+    "works-title4": "Instagram Klonu",
+    "works-projects1": "<projects>",
+    "works-projects2": "<projects/>",
+
+    "works-text1": "Yeni açılan girişimler için yapılan örnek şablon.",
+    "works-text2": "Yapay zeka üzerinde çalışan Open AI şirketi için yapılan mobil uyumlu websitesi.",
+    "works-text3": "React.js üzerinde gelişmek için yapılmıştır.",
+    "works-text4": "React.js üzerinde gelişmek için yapılmıştır.",
+    "works-btn-text": "Siteyi Ziyaret Et",
+
+    "contact-big-title": "İletişim",
+    "contact-title": "Temasta Kalalım!",
+    "contact-text": "Web sitesi ve web tasarımına ihtiyacınız varsa bana ulaşabilirsiniz.",
+    "contact-name-surname": "Ad-Soyad",
+    "contact-email": "E-Mail",
+    "contact-message": "Mesaj",
+    "contact-btn-text": "Gönder",
+    "contact-telephone": "Telefon",
+    "contact-successfull": "Mesajınız başarıyla alındı. Size en kısa sürede döneceğim.",
+
+    "footer-title": "Taha Yeşilbağ",
+    "footer-text": "Gelecek tasarım ve teknolojinin elindedir.",
+    "footer-copyright": "Telif Hakkı © 2022 Taha Yeşilbağ. Tüm hakları saklıdır."
+}

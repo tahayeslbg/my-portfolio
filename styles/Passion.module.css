@@ -1,0 +1,73 @@
+.aboutPassionTitle {
+	font-family: Futura Hv BT;
+	font-weight: lighter;
+	font-size: 35px;
+	line-height: 42px;
+	color: var(--secondary-color);
+	letter-spacing: 0.03em;
+}
+
+.aboutPassionTextContainer {
+	display: flex;
+	flex-direction: row;
+}
+
+.aboutPassionTextInner {
+	flex: 0.5;
+	margin-right: 150px;
+}
+
+.aboutPassionTextInner:nth-child(3) {
+	margin-right: 0;
+}
+
+.aboutPassionTextInner h3 {
+	font-family: Futura Md BT;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 35px;
+	letter-spacing: 0.03em;
+	color: var(--secondary-color);
+}
+
+.aboutPassionTextInner p {
+	font-family: Futura Md BT;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 35px;
+	letter-spacing: 0.03em;
+	color: var(--paragraphs-color);
+}
+
+@media (max-width: 1024px) {
+	.aboutPassionTextContainer {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.aboutPassionTextInner {
+		flex: 1;
+		margin-right: 0;
+	}
+
+	.aboutPassionTextInner h3 {
+		font-family: Futura Md BT;
+		font-weight: 400;
+		font-size: 22px;
+		line-height: 35px;
+		letter-spacing: 0.03em;
+		color: var(--secondary-color);
+	}
+
+	.aboutTextContainer .aboutTextInner p {
+		max-width: 800px;
+		font-family: Futura Md BT;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		line-height: 35px;
+		letter-spacing: 0.03em;
+		color: var(--paragraphs-color);
+	}
+}

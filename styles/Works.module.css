@@ -1,0 +1,41 @@
+.worksContainer {
+	width: 100%;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: Futura Md BT;
+	margin: 120px 0;
+}
+
+.worksInner {
+	width: 90%;
+	display: flex;
+	flex-direction: column;
+}
+
+.worksInner h1 {
+	font-family: Futura Bk BT;
+	font-weight: normal;
+	font-size: 56px;
+	line-height: 35px;
+	color: var(--secondary-color);
+	letter-spacing: 0.05em;
+	margin-bottom: 100px;
+}
+
+.worksInner span {
+	font-family: Futura Md BT;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 29px;
+	letter-spacing: 0.06em;
+	color: var(--paragraphs-color);
+}
+
+.projectsContainer {
+	display: flex;
+	flex-direction: column;
+	width: 90%;
+	margin: 75px auto;
+}
